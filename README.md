@@ -32,6 +32,9 @@
 <h3>Meus projetos em Html e Css</h3>
 <ul>
   <li>
-<a href="https://menon23.github.io/Projeto-Strata/"><i>Projeto Strata</i></a>
+    <a href="https://menon23.github.io/Projeto-Strata/"><i>Projeto Strata</i></a>
+  </li>
+  <li>
+    <a href="https://menon23.github.io/Projeto_responsivo/"><i>Projeto Responsivo 1</i></a>    
   </li>
 </ul>
